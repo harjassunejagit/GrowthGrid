@@ -39,27 +39,25 @@ This project demonstrates:
 
 ## 🏗️ Project Structure
 
-
+```
 GrowthGrid/
-├── index.html # Main UI structure
-├── style.css # Styling and layout
-├── script.js # Core application logic
-├── README.md # Documentation
+├── index.html              # Main UI structure
+├── style.css               # Styling and layout
+├── script.js               # Core application logic
+├── README.md               # Documentation
 │
 ├── modules/
-│ ├── analytics.js # XP & performance calculations
-│ ├── achievements.js # Badge system logic
-│ ├── streak.js # (future) daily streak system
+│   ├── analytics.js        # XP & performance calculations
+│   ├── achievements.js     # Badge system logic
+│   ├── streak.js           # (future) daily streak system
 │
 ├── assets/
-│ ├── icons/ # UI icons
-│ ├── themes/ # Light/Dark theme support
+│   ├── icons/              # UI icons
+│   ├── themes/             # Light/Dark theme support
 │
 ├── data/
-│ ├── sample.json # Sample JSON data
-
-
----
+│   ├── sample.json         # Sample JSON data
+```
 
 # ⚙️ How It Works
 
